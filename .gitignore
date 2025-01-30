@@ -1,0 +1,5 @@
+.env
+node_modules
+.dir-locals.el
+.DS_Store
+.vscode
